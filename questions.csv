@@ -1,0 +1,5 @@
+id,text,type,options,correct_option,disabled,times_shown,times_answered_correctly,times_answered_incorrectly
+1,2+2,quiz,"4,5,6",1,False,3,3,0
+2,6+6,quiz,"12,18,24",1,False,2,2,0
+3,Firs letter in ABC?,free-form,,a,False,3,3,0
+4,What is the capital of Germany?,free-form,,berlin,True,0,0,0

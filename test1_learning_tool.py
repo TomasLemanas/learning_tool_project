@@ -1,3 +1,5 @@
+# Remove all csv and txt files before starting
+
 import csv
 import tempfile
 import pytest

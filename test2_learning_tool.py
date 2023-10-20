@@ -1,3 +1,5 @@
+# Remove all csv and txt files before starting 
+
 import pytest
 from learning_tool import LearningTool, PracticeMode, TestMode, StatisticsViewer
 

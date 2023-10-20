@@ -1,3 +1,5 @@
+# Remove all csv and txt files before starting
+
 from unittest.mock import patch
 import pytest
 from learning_tool import LearningTool
